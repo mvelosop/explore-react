@@ -5,9 +5,24 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{44BD495B-EA03-4F0C-86F7-7DF0D9354EBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explore.React.Web", "src\Explore.React.Web\Explore.React.Web.csproj", "{4385B585-BAD5-4C11-918E-E43F4D4AC670}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4385B585-BAD5-4C11-918E-E43F4D4AC670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4385B585-BAD5-4C11-918E-E43F4D4AC670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4385B585-BAD5-4C11-918E-E43F4D4AC670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4385B585-BAD5-4C11-918E-E43F4D4AC670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4385B585-BAD5-4C11-918E-E43F4D4AC670} = {44BD495B-EA03-4F0C-86F7-7DF0D9354EBB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F5557B1-BEC6-450D-B9B3-AF2DC92D27D2}
