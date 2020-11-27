@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30320.27
+VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{44BD495B-EA03-4F0C-86F7-7DF0D9354EBB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F72A19FA-DB51-4259-A5DB-5C85997E3FF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explore.React.Web", "src\Explore.React.Web\Explore.React.Web.csproj", "{4385B585-BAD5-4C11-918E-E43F4D4AC670}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explore.React.Web", "src\Explore.React.Web\Explore.React.Web.csproj", "{A014C177-406D-49B9-96EF-D0A94F154E0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,18 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4385B585-BAD5-4C11-918E-E43F4D4AC670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4385B585-BAD5-4C11-918E-E43F4D4AC670}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4385B585-BAD5-4C11-918E-E43F4D4AC670}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4385B585-BAD5-4C11-918E-E43F4D4AC670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A014C177-406D-49B9-96EF-D0A94F154E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A014C177-406D-49B9-96EF-D0A94F154E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A014C177-406D-49B9-96EF-D0A94F154E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A014C177-406D-49B9-96EF-D0A94F154E0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{4385B585-BAD5-4C11-918E-E43F4D4AC670} = {44BD495B-EA03-4F0C-86F7-7DF0D9354EBB}
+		{A014C177-406D-49B9-96EF-D0A94F154E0F} = {F72A19FA-DB51-4259-A5DB-5C85997E3FF1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1F5557B1-BEC6-450D-B9B3-AF2DC92D27D2}
+		SolutionGuid = {5732BC58-C6EA-4923-990D-C320B814967E}
 	EndGlobalSection
 EndGlobal
